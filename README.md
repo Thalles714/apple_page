@@ -1,4 +1,4 @@
-# Página Apple 🍎
+🍎
 
 Este projeto é uma recriação inspirada na página oficial da Apple, desenvolvida para fins educacionais e prática em front-end.  
 O foco está em reproduzir o design moderno e minimalista da marca, aplicando boas práticas de **HTML**, **CSS** e **JavaScript**.
@@ -10,7 +10,7 @@ O foco está em reproduzir o design moderno e minimalista da marca, aplicando bo
 ## 🚀 Tecnologias Utilizadas
 - HTML5  
 - CSS3  
-- JavaScript (se aplicável)  
+- JavaScript  
 
 ## 🎯 Objetivos do Projeto
 - Praticar estruturação semântica em HTML  
@@ -36,9 +36,6 @@ O foco está em reproduzir o design moderno e minimalista da marca, aplicando bo
    git clone https://github.com/seu-usuario/pagina-apple.git
    ```
 2. Abra o arquivo `index.html` diretamente no navegador.
-
-## 📸 Preview
-*(Adicione aqui uma captura de tela da página quando disponível)*
 
 ## ⚠️ Aviso Legal
 Este projeto é apenas para fins de estudo e **não possui vínculo oficial com a Apple Inc.**
